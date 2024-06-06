@@ -2,7 +2,7 @@ $(function () {
   //
   let headerContent = document.querySelector('.header-content')
   let nav = document.querySelector('.site-nav')
-  let headerCue = document.querySelector('.header-cue')
+  let headerCue = document.querySelector('.header-cue') // todo
   let meetMonsters = document.querySelector('#meet')
   let monsterScroll = document.querySelectorAll('#monster-group .monster')
   let navHeight = nav.scrollHeight
