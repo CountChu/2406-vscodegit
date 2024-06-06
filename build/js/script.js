@@ -1,4 +1,5 @@
 $(function () {
+  //
   let headerContent = document.querySelector('.header-content')
   let nav = document.querySelector('.site-nav')
   let headerCue = document.querySelector('.header-cue')
